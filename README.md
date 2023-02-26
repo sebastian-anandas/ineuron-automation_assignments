@@ -1,2 +1,2 @@
 # ineuron-automation_assignments
-Selenium webdriver with Java automation assignments
+Selenium WebDriver with Java - Automation assignments
